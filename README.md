@@ -2,6 +2,10 @@
 
 This repository contains the materials and implementation of my undergraduate capstone project titled **"An Intelligent Approach to Detecting Novel Fault Classes for Centrifugal Pumps"**, which was presented at the **7th International Conference on Signal Processing and Intelligent Systems (ICSPIS).** The project leverages **Deep Convolutional Neural Networks (CNNs)** and **unsupervised clustering** techniques to identify both known and novel fault conditions in centrifugal pumps.
 
+<p align="center">
+  <img src="System.png" alt="System" width="500">
+</p>
+
 ---
 
 ## Project Overview
@@ -68,6 +72,11 @@ The dataset used for training and testing consists of vibration signals for six 
 | Major Defect     | 1440             | 360            | 150 - 200        |
 | Minor Defect     | 1040             | 360            | 130 - 160        |
 | Crack            | 1280             | 320            | 150 - 200        |
+
+
+<p align="center">
+  <img src="Impeller.png" alt="Impeller" width="500">
+</p>
 
 ---
 

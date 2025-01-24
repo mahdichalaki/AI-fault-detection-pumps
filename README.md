@@ -56,7 +56,7 @@ The experimental setup for the project includes:
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset used for training and testing consists of vibration signals for six pump conditions:
 
@@ -71,7 +71,7 @@ The dataset used for training and testing consists of vibration signals for six 
 
 ---
 
-## 📊 Results
+## Results
 
 The proposed system was evaluated based on the collected vibration data, and the following key performance results were achieved:
 
@@ -91,7 +91,7 @@ The proposed system was evaluated based on the collected vibration data, and the
 
 ---
 
-## 📜 Conclusion
+## Conclusion
 
 The proposed intelligent fault detection system successfully classified known fault conditions with high accuracy and demonstrated the capability to identify novel faults using clustering techniques. The two-stage approach combining deep learning and unsupervised clustering proved to be effective in real-world applications, providing a robust and scalable solution for centrifugal pump condition monitoring.
 
@@ -106,7 +106,7 @@ The results highlight the potential of AI-driven fault diagnosis systems to impr
 
 ---
 
-## 📄 Publication
+## Publication
 
 The findings of this project have been published in the **7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)**.
 
@@ -117,12 +117,12 @@ M. A. Chalaki, D. Maroufi, M. Robati, M. J. Karimi and A. Sadighi, "An Intellige
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For any questions or collaboration inquiries, feel free to reach out.
